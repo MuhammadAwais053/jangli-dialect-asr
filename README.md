@@ -1,4 +1,4 @@
-# Jangli Dialect ASR — Fine-Tuning Whisper for a Low-Resource Dialect
+# Fine-Tuning Whisper for a Low-Resource Dialect (Jangli Dialect ASR)
 
 Fine-tuning OpenAI's Whisper speech-recognition model to transcribe **Jangli**,
 a spoken dialect from the Sahiwal and Sargodha districts of Punjab, Pakistan,
