@@ -1,1 +1,4 @@
-
+Baseline WER: 108.66%
+Fine-tuned WER: 86.09%
+Improvement: 22.57 points
+Training clips: 1743
