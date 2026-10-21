@@ -1,0 +1,10 @@
+transformers
+datasets
+accelerate
+evaluate
+jiwer
+librosa
+soundfile
+pydub
+torch
+pandas
