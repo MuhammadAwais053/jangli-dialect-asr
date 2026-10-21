@@ -19,7 +19,7 @@ See [`results/results_summary.txt`](results/results_summary.txt) and
 ## Model
 
 The fine-tuned model is hosted on Hugging Face Hub:
-**[awais064/jangli-whisper-small](https://huggingface.co/awais064/jangli-whisper-small)**
+**[awais064/jangli-whisper-small](https://huggingface.co/awais064/whisper-jangli-small)**
 
 ## Approach
 
